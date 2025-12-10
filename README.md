@@ -1,6 +1,9 @@
 # Electron + React + Vite
 
-## Building
+## Running
+```shell
+npm install
+```
 
 ```shell
 npm run build
